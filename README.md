@@ -71,13 +71,3 @@ flutter build apk --release
 > **Requires Flutter ≥ 3.0.0**
 
 ---
-
-## Screenshots
-
-> *(Add screenshots here)*
-
----
-
-## Video Demo
-
-> *(Attach a < 1 min video showcasing all functionality)*
